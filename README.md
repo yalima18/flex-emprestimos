@@ -21,3 +21,5 @@ Aplicar técnicas de **modelagem de dados** para identificar, organizar e repres
 ## 🎓 Sobre o Projeto
 Projeto desenvolvido para fins educacionais no curso de **Modelagem de Dados** da **Alura**.
 
+## 🧩 Diagrama do Projeto
+
