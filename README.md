@@ -18,7 +18,7 @@ Aplicar técnicas de **modelagem de dados** para identificar, organizar e repres
 - Elaboração do diagrama (DER)  
 - Representação visual dos relacionamentos entre entidades  
 
-## 🎓 Sobre o Projeto
+## 📄 Licença
 Projeto desenvolvido para fins educacionais no curso de **Modelagem de Dados** da **Alura**.
 
 ## 🧩 Diagrama do Projeto
