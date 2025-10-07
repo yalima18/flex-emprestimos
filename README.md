@@ -22,5 +22,4 @@ Aplicar técnicas de **modelagem de dados** para identificar, organizar e repres
 Projeto desenvolvido para fins educacionais no curso de **Modelagem de Dados** da **Alura**.
 
 ## 🧩 Diagrama do Projeto
-## 🧩 Diagrama do Projeto
-![Diagrama FlexEmpresta](flex Emprestimos.vpd.jpg)
+![Diagrama FlexEmpresta](flex-emprestimos.jpg)
